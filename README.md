@@ -6,3 +6,5 @@ If your bar has a different color, you will have to recolor the image.
 Also if your screen is wider than 1920px, you will need to extend the image.
 
 ![alt text](screen.jpg)
+
+BG: https://wallpapercrafter.com/148640-train-japan-asia-mount-fuji-shinkansen.html
